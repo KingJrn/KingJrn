@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br />
 
-<h3>I am a software engineer at <a href="https://www.zowasel.com/">Zowasel</a> and also co-founded <a href="https://www.zowasel.com/">Techroom Services</a></h3>
+<h3>I am a software engineer at <a href="https://www.zowasel.com/">Zowasel</a> and also Core Team Member at <a href="https://www.zowasel.com/">Techroom Services</a></h3>
 <br>
 
 
