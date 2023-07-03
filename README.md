@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kingjrn&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="200" style="vertical-align:top; margin:4px">
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nolimits4web&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kingjrn&skills=JavaScript,TypeScript&show-other-skills=true"
 />
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=KingJrn)
 
