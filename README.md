@@ -38,12 +38,9 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=KingJrn&color=green)
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kingjrn&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="200" style="vertical-align:top; margin:4px">
 
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kingjrn&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=KingJrn)
 
