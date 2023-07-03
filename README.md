@@ -49,7 +49,11 @@ Here are some ideas to get you started:
 <h2>Interests and Volunteer Experience</h2>
 <p>When I'm not coding, I enjoy playing video games, conducting research, reading books, pursuing cinematography, and spending quality time with my loved ones. I've also dedicated my time as a technical team member, sound department, and media/new media director for Loveword Inc. Additionally, I've served as a media/photographer for Blockchain Education Invasion and was a team member for the blockchain event, EOS invasion.</p>
 <br />
-##### 🌱 Ask me anything about coding On JavaScript, CSS and Python
+
+<h5>Additional work experience details are available upon request.</h5>
+<br/>
+
+##### 🌱 Need assistance or have queries about JavaScript or Python? I'm here to provide answers
 
 <h2>Statistics 📈</h2>
 
@@ -62,7 +66,7 @@ Here are some ideas to get you started:
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KingJrn&langs_count=5&theme=tokyonight)]()
 
 ![](https://komarev.com/ghpvc/?username=KingJrn&color=green)
-
+<br>
 
 
 <h2>Check my code rank</h2>
@@ -98,12 +102,7 @@ style="vertical-align:top; margin: 4px">
 style="vertical-align:top; margin: 4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" height="40"
 style="vertical-align:top; margin: 4px">
-  
-  
-  
-
 </p>
-
 
 
 <h2>Get in Touch with Me 📩</h2>
