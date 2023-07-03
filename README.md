@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 <br />
-##### . 🌱 Ask me anything about coding On JavaScript, CSS and Python
+##### 🌱 Ask me anything about coding On JavaScript, CSS and Python
 
 <h2>Statistics 📈</h2>
 
