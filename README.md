@@ -36,8 +36,11 @@ Here are some ideas to get you started:
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KingJrn&langs_count=5&theme=tokyonight)]()
 
-![](https://komarev.com/ghpvc/?username=derrickkoko1234&color=green)
+![](https://komarev.com/ghpvc/?username=KingJrn&color=green)
 
+
+
+<h2>Check my code rank</h2>
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=KingJrn&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="200" style="vertical-align:top; margin:4px">
 
