@@ -15,14 +15,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>Hello there 👋😎</h2>
-<h1>My name is Emmanuel Eze</h1>
-
+<h1>Emmanuel Eze - Front-End Web Developer Extraordinaire</h1>
 <br />
+<p>Welcome to my special README! I'm Emmanuel Eze, a highly skilled and experienced front-end web developer with a strong background in web development and a deep understanding of the Agro-Tech industry. I'm passionate about creating exceptional user interfaces and experiences for websites and web applications.</p>
 
 <h3>I am a software engineer at <a href="https://www.zowasel.com/">Zowasel</a> and also Core Team Member at <a href="https://www.zowasel.com/">Techroom Services</a></h3>
 <br>
 
+<h1>Experience and Expertise</h1>
+<br/>
+<h2>Zowasel Inc. | Lagos, Ikeja</h2>
+<p>As a Web Developer at Zowasel Inc., I'm responsible for designing and building the user interface and user experience for our website and web applications. I work with HTML, CSS, JavaScript, Git, JavaScript Libraries, and CSS preprocessors to create innovative solutions. I've been a key contributor to the rebuilding of our web applications, adding exciting new features and functionality such as the user general dashboard, marketplace, API and subscription, financing and credit scoring dashboard, crop data and analytics dashboard, inspection and logistics dashboard, agent dashboard, wallet, and support system.</p>
+<br />
+<h2>Techroom Services | Akwa Ibom, Uyo</h2>
+<p>At Techroom Services, I wear multiple hats as a Software Developer and Tutor. I've developed an online Payment gateway called Blocspay and have the opportunity to mentor and work closely with interns on various in-house and external projects. I'm part of the team responsible for designing and developing our company's website and web applications, where we strive to implement the latest and modern features to enhance user experience and functionality.</p>
+<br />
+<h2>Carril | Remote, Remote</h2>
+<p>During my time at Carril, I collaborated with a talented team at Tech Room services to build the user interface and user experience for the Carril web applications. I focused on designing the dashboard, file system, authentication, and other critical components. I'm well-versed in HTML, CSS, JavaScript, jQuery, VueJs, and other JavaScript frameworks and libraries.</p>
+<br />
 
+<h2>A6GNL | Remote, Remote</h2>
+<p>At A6GNL, I worked closely with a colleague to rebuild the official website. I utilized CSS and JavaScript frameworks along with external libraries to enhance the user experience. I actively discussed issues with team members, providing resolutions and implementing best practices. Additionally, I took charge of developing a mobile-responsive UI and UX.</p>
+<br />
+
+<h2>Blockchain Education Invasion (BEI) | Akwa Ibom, Uyo</h2>
+<p>In my role as the Tech Hub Director at BEI, I played a pivotal role in developing the BEI information and marketing platform for a blockchain token. I collaborated closely with in-house designers and developers, offering valuable advice and contributing to projects.</p>
+<br />
+
+<h2>Skills and Education</h2>
+<p>I possess strong skills in HTML5, CSS3, CSS frameworks, JavaScript, JavaScript Libraries (such as VueJs and ReactJs), TypeScript, Version Control (Git), Content Management Systems (CMS) including WordPress, performance testing, debugging, Agile methodology, Scrum, and more. I hold a degree in Chemistry from the University of Uyo, Akwa Ibom.</p>
+<br />
+
+<h2>Interests and Volunteer Experience</h2>
+<p>When I'm not coding, I enjoy playing video games, conducting research, reading books, pursuing cinematography, and spending quality time with my loved ones. I've also dedicated my time as a technical team member, sound department, and media/new media director for Loveword Inc. Additionally, I've served as a media/photographer for Blockchain Education Invasion and was a team member for the blockchain event, EOS invasion.</p>
 <br />
 ##### 🌱 Ask me anything about coding On JavaScript, CSS and Python
 
