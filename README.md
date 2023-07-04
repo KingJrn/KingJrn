@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <br />
 
 <h2>Interests and Volunteer Experience</h2>
-<p>When I'm not coding, I enjoy playing video games, conducting research, reading books, pursuing cinematography, and spending quality time with my loved ones. I've also dedicated my time as a technical team member, sound department, and media/new media director for Loveword Inc. Additionally, I've served as a media/photographer for Blockchain Education Invasion and was a team member for the blockchain event, EOS invasion.</p>
+<p>When I'm not coding, I enjoy playing video games, conducting research, reading books, pursuing cinematography, and spending quality time with my loved ones. I've also dedicated my time as a technical team member, sound department, and media/new media director for <a href="https://christembassy.org/">Loveword Inc</a>. Additionally, I've served as a media/photographer for<a href="https://beiedu.co/">Blockchain Education Invasion (BEI) </a> and was a team member for the blockchain event, <a href="https://eos.io/">EOS</a> invasion.</p>
 <br />
 
 <h5>Additional work experience details are available upon request.</h5>
