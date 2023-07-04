@@ -28,14 +28,14 @@ Here are some ideas to get you started:
 
 <p>As a Web Developer at Zowasel Inc., I'm responsible for designing and building the user interface and user experience for our website and web applications. I work with HTML, CSS, JavaScript, Git, JavaScript Libraries, and CSS preprocessors to create innovative solutions. I've been a key contributor to the rebuilding of our web applications, adding exciting new features and functionality such as the user general dashboard, marketplace, API and subscription, financing and credit scoring dashboard, crop data and analytics dashboard, inspection and logistics dashboard, agent dashboard, wallet, and support system.</p>
 <br />
-<h2> <a href="https://techroomservices.com/">Techroom Services</a>| Akwa Ibom, Uyo</h2>
+<h2> <a href="https://techroomservices.com/">Techroom Services</a> | Akwa Ibom, Uyo</h2>
 <p>At Techroom Services, I wear multiple hats as a Software Developer and Tutor. I've developed an online Payment gateway called Blocspay and have the opportunity to mentor and work closely with interns on various in-house and external projects. I'm part of the team responsible for designing and developing our company's website and web applications, where we strive to implement the latest and modern features to enhance user experience and functionality.</p>
 <br />
-<h2><a href="https://www.carrilagency.com/">Carril</a>| Remote, Remote</h2>
+<h2><a href="https://www.carrilagency.com/">Carril</a> | Remote, Remote</h2>
 <p>During my time at Carril, I collaborated with a talented team at Tech Room services to build the user interface and user experience for the Carril web applications. I focused on designing the dashboard, file system, authentication, and other critical components. I'm well-versed in HTML, CSS, JavaScript, jQuery, VueJs, and other JavaScript frameworks and libraries.</p>
 <br />
 
-<h2><a href="https://www.a6gnl.com/">A6GNL</a>| Remote, Remote</h2>
+<h2><a href="https://www.a6gnl.com/">A6GNL</a> | Remote, Remote</h2>
 <p>At A6GNL, I worked closely with a colleague to rebuild the official website. I utilized CSS and JavaScript frameworks along with external libraries to enhance the user experience. I actively discussed issues with team members, providing resolutions and implementing best practices. Additionally, I took charge of developing a mobile-responsive UI and UX.</p>
 <br />
 
