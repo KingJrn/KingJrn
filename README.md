@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <p>In my role as the Tech Hub Director at BEI, I played a pivotal role in developing the BEI information and marketing platform for a blockchain token. I collaborated closely with in-house designers and developers, offering valuable advice and contributing to projects.</p>
 <br />
 
-<h2><a href="https://beiedu.co/">Parallel World </a> | Remote, Remote</h2>
+<h2><a href="https://parallelworlds.us/">Parallel World </a> | Remote, Remote</h2>
 <p>As a freelance web developer at Parallel Worlds, I built and maintained the website, developed the user interface, integrated the website with third-party APIs, and optimized the website for performance and SEO.</p>
 <br />
 
