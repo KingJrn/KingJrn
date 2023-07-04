@@ -24,26 +24,31 @@ Here are some ideas to get you started:
 
 <h1>Experience and Expertise</h1>
 <br/>
-<h2>Zowasel Inc. | Lagos, Ikeja</h2>
+<h2> <a href="https://www.zowasel.com/">Zowasel</a> | Lagos, Ikeja | 11/2022 - Present</h2>
+
 <p>As a Web Developer at Zowasel Inc., I'm responsible for designing and building the user interface and user experience for our website and web applications. I work with HTML, CSS, JavaScript, Git, JavaScript Libraries, and CSS preprocessors to create innovative solutions. I've been a key contributor to the rebuilding of our web applications, adding exciting new features and functionality such as the user general dashboard, marketplace, API and subscription, financing and credit scoring dashboard, crop data and analytics dashboard, inspection and logistics dashboard, agent dashboard, wallet, and support system.</p>
 <br />
-<h2>Techroom Services | Akwa Ibom, Uyo</h2>
+<h2> <a href="https://techroomservices.com/">Techroom Services</a>| Akwa Ibom, Uyo</h2>
 <p>At Techroom Services, I wear multiple hats as a Software Developer and Tutor. I've developed an online Payment gateway called Blocspay and have the opportunity to mentor and work closely with interns on various in-house and external projects. I'm part of the team responsible for designing and developing our company's website and web applications, where we strive to implement the latest and modern features to enhance user experience and functionality.</p>
 <br />
-<h2>Carril | Remote, Remote</h2>
+<h2><a href="https://www.carrilagency.com/">Carril</a>| Remote, Remote</h2>
 <p>During my time at Carril, I collaborated with a talented team at Tech Room services to build the user interface and user experience for the Carril web applications. I focused on designing the dashboard, file system, authentication, and other critical components. I'm well-versed in HTML, CSS, JavaScript, jQuery, VueJs, and other JavaScript frameworks and libraries.</p>
 <br />
 
-<h2>A6GNL | Remote, Remote</h2>
+<h2><a href="https://www.a6gnl.com/">A6GNL</a>| Remote, Remote</h2>
 <p>At A6GNL, I worked closely with a colleague to rebuild the official website. I utilized CSS and JavaScript frameworks along with external libraries to enhance the user experience. I actively discussed issues with team members, providing resolutions and implementing best practices. Additionally, I took charge of developing a mobile-responsive UI and UX.</p>
 <br />
 
-<h2>Blockchain Education Invasion (BEI) | Akwa Ibom, Uyo</h2>
+<h2><a href="https://beiedu.co/">Blockchain Education Invasion (BEI) </a> | Akwa Ibom, Uyo</h2>
 <p>In my role as the Tech Hub Director at BEI, I played a pivotal role in developing the BEI information and marketing platform for a blockchain token. I collaborated closely with in-house designers and developers, offering valuable advice and contributing to projects.</p>
 <br />
 
+<h2><a href="https://beiedu.co/">Parallel World </a> | Remote, Remote</h2>
+<p>As a freelance web developer at Parallel Worlds, I built and maintained the website, developed the user interface, integrated the website with third-party APIs, and optimized the website for performance and SEO.</p>
+<br />
+
 <h2>Skills and Education</h2>
-<p>I possess strong skills in HTML5, CSS3, CSS frameworks, JavaScript, JavaScript Libraries (such as VueJs and ReactJs), TypeScript, Version Control (Git), Content Management Systems (CMS) including WordPress, performance testing, debugging, Agile methodology, Scrum, and more. I hold a degree in Chemistry from the University of Uyo, Akwa Ibom.</p>
+<p>I possess strong skills in HTML5, CSS3, CSS frameworks, JavaScript, JavaScript Libraries (such as VueJs and ReactJs), TypeScript, Version Control (Git), Content Management Systems (CMS) including WordPress, performance testing, debugging, Agile methodology, Scrum, and more. I hold a degree in Chemistry from the <a href="https://uniuyo.edu.ng/">University of Uyo</a>, Akwa Ibom.</p>
 <br />
 
 <h2>Interests and Volunteer Experience</h2>
