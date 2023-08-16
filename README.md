@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h1>Experience and Expertise</h1>
 <br/>
-<h2> <a href="https://www.zowasel.com/">Zowasel</a> | Lagos, Ikeja | 11/2022 - Present</h2>
+<h2> <a href="https://www.zowasel.com/">Zowasel</a> | Lagos, Ikeja</h2>
 
 <p>As a Web Developer at Zowasel Inc., I'm responsible for designing and building the user interface and user experience for our website and web applications. I work with HTML, CSS, JavaScript, Git, JavaScript Libraries, and CSS preprocessors to create innovative solutions. I've been a key contributor to the rebuilding of our web applications, adding exciting new features and functionality such as the user general dashboard, marketplace, API and subscription, financing and credit scoring dashboard, crop data and analytics dashboard, inspection and logistics dashboard, agent dashboard, wallet, and support system.</p>
 <br />
