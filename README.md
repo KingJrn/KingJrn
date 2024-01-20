@@ -27,13 +27,12 @@ Here are some ideas to get you started:
 <br/>
 <h2> <a href="https://www.zowasel.com/">Zowasel</a> | Lagos, Ikeja</h2>
 
-<p>As a Senior Frontend Developer at Zowasel Inc. Pioneered the development of Zowasel's revolutionary digital marketplace, building a complex system that connects diverse stakeholders across the agricultural supply chain (farmers, cooperatives, merchants, manufacturers, processors) and delivers unprecedented access, trust, and economic benefits, including boosting local economies.
+<p>As a Senior Frontend Developer at Zowasel Inc. I Pioneered the development of Zowasel's revolutionary digital marketplace, building a complex system that connects diverse stakeholders across the agricultural supply chain (farmers, cooperatives, merchants, manufacturers, processors) and delivers unprecedented access, trust, and economic benefits, including boosting local economies.
 </p>
 <br />
 <h2> <a href="https://techroomservices.com/">Techroom Services</a> | Akwa Ibom, Uyo</h2>
-<p>At Techroom Services, I wear multiple hats as a Software Developer and Tutor. I've developed an online Payment gateway called Blocspay and have the opportunity to mentor and work closely with interns on various in-house and external projects. I'm part of the team responsible for designing and developing our company's website and web applications, where we strive to implement the latest and modern features to enhance user experience and functionality.
-At Techroom, I have developed scalable applications for both enterprises and startups, leveraging a diverse set of technologies. My expertise includes working with frameworks such as Nuxt.js, React.js, Vue.js, Next.js Sockek.io Webpack, and utilizing server-side technologies like PHP and Node.js. Additionally, I have proficiency in various other web technologies
-</p>
+<p>As Director of Technical Education and Project Management at Techroom, I fostered a thriving community of over 10 software developers, equipping them with in-demand skills through tailored programs in Mobile Development, Structured and Scalable Backend Development, UI/UX Design, and Responsive Design. My mentorship empowered several of graduates to successfully launch their own startups or secure employment within Techroom's network. <br/>
+Leveraging my skills and Techroom's network, I developed several innovative solutions for startups and established companies, tackling challenges like e-commerce optimization, internal data analysis, and streamlined workflows. These solutions helped businesses in diverse industries improve their digital presence and operations. My expertise includes working with frameworks such as Nuxt.js, React.js, Vue.js, Next.js Sockek.io Webpack, and utilizing server-side technologies like PHP and Node.js. Additionally, I have proficiency in various other web technologies</p>
 <br />
 <h2><a href="https://www.carrilagency.com/">Carril</a> | Remote, Remote</h2>
 <p>During my time at Carril, I collaborated with a talented team at Tech Room services to build the user interface and user experience for the Carril web applications. I focused on designing the dashboard, file system, authentication, and other critical components. I'm well-versed in HTML, CSS, JavaScript, jQuery, VueJs, and other JavaScript frameworks and libraries.</p>
