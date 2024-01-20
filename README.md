@@ -40,11 +40,14 @@ Built the landing site for a decentralized web3 betting platform built on the Bi
 </p>
 <br />
 <h2> <a href="https://techroomservices.com/">Techroom Services</a> | Akwa Ibom, Uyo</h2>
-<p>As Director of Technical Education and Project Management at Techroom, I fostered a thriving community of over 10 software developers, equipping them with in-demand skills through tailored programs in Mobile Development, Structured and Scalable Backend Development, UI/UX Design, and Responsive Design. My mentorship empowered several of graduates to successfully launch their own startups or secure employment within Techroom's network. <br/>
-Leveraging my skills and Techroom's network, I developed several innovative solutions for startups and established companies, tackling challenges like e-commerce optimization, internal data analysis, and streamlined workflows. These solutions helped businesses in diverse industries improve their digital presence and operations. My expertise includes working with frameworks such as Nuxt.js, React.js, Vue.js, Next.js Sockek.io Webpack, and utilizing server-side technologies like PHP and Node.js. Additionally, I have proficiency in various other web technologies</p>
+<p>As Director of Technical Education and Project Management at Techroom, I fostered a thriving community of over 10 software developers, equipping them with in-demand skills through tailored programs in Mobile Development, Structured and Scalable Backend Development, UI/UX Design, and Responsive Design. My mentorship empowered several graduates to successfully launch their own startups or secure employment within Techroom's network. <br/>
+Leveraging my skills and Techroom's network, I developed several innovative solutions for startups and established companies, tackling challenges like e-commerce optimization, internal data analysis, and streamlined workflows. These solutions helped businesses in diverse industries improve their digital presence and operations. 
+My expertise includes working with frameworks such as Nuxt.js, React.js, Vue.js, Next.js Sockek.io Webpack, and utilizing server-side technologies like PHP and Node.js. Additionally, I have proficiency in various other web technologies</p>
 <br />
 <h2><a href="https://www.a6gnl.com/">A6GNL</a> | Remote, Remote</h2>
-<p>At A6GNL, I worked closely with a colleague to rebuild the official website. I utilized CSS and JavaScript frameworks along with external libraries to enhance the user experience. I actively discussed issues with team members, providing resolutions and implementing best practices. Additionally, I took charge of developing a mobile-responsive UI and UX.</p>
+<p>
+  I crafted a mobile-first website for A6GNL™ that prioritizes user experience and accessibility across all devices. By leveraging modern technologies and focusing on intuitive navigation, the website makes it easy for clients to explore A6GNL™'s diverse range of services, from solar energy solutions to professional training. The responsive design and focus on brand identity further reinforce A6GNL™'s commitment to innovation, reliability, and client satisfaction.
+</p>
 <br />
 
 <h2><a href="https://parallelworlds.us/">Parallel World </a> | Remote, Remote</h2>
