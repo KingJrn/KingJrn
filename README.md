@@ -33,7 +33,9 @@ Here are some ideas to get you started:
 <br />
 <h2><a href="https://beiedu.co/">Blockchain Education Invasion (BEI) </a> | Akwa Ibom, Uyo</h2>
 <p>
-  Developed an online blockchain learning platform for BEI, empowering students with training and assessment features in HTML, CSS and Javascript and Javascript Libraries . Collaborated closely with in-house designers and developers to ensure best practices and a seamless user experience. <br/>
+  Developed an online blockchain learning platform for BEI, empowering students with training and assessment features in HTML, CSS and Javascript and Javascript Libraries . Collaborated closely with in-house designers and developers to ensure best practices and a seamless user experience.<br/>
+
+  
 Conducted training and workshops on blockchain technology, effectively educating developers and stakeholders on this cutting-edge field. <br/>
   
 Built the landing site for a decentralized web3 betting platform built on the Binance Smart Chain Network, showcasing the potential of Web3 technology to revolutionize online gambling. 
@@ -41,7 +43,9 @@ Built the landing site for a decentralized web3 betting platform built on the Bi
 <br />
 <h2> <a href="https://techroomservices.com/">Techroom Services</a> | Akwa Ibom, Uyo</h2>
 <p>As Director of Technical Education and Project Management at Techroom, I fostered a thriving community of over 10 software developers, equipping them with in-demand skills through tailored programs in Mobile Development, Structured and Scalable Backend Development, UI/UX Design, and Responsive Design. My mentorship empowered several graduates to successfully launch their own startups or secure employment within Techroom's network. <br/>
+  
 Leveraging my skills and Techroom's network, I developed several innovative solutions for startups and established companies, tackling challenges like e-commerce optimization, internal data analysis, and streamlined workflows. These solutions helped businesses in diverse industries improve their digital presence and operations. 
+
 My expertise includes working with frameworks such as Nuxt.js, React.js, Vue.js, Next.js Sockek.io Webpack, and utilizing server-side technologies like PHP and Node.js. Additionally, I have proficiency in various other web technologies</p>
 <br />
 <h2><a href="https://www.a6gnl.com/">A6GNL</a> | Remote, Remote</h2>
