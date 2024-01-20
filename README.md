@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 <br/>
 <h2> <a href="https://www.zowasel.com/">Zowasel</a> | Lagos, Ikeja</h2>
 
-<p>As a Web Developer at Zowasel Inc., I'm responsible for designing and building the user interface and user experience for our website and web applications. I work with HTML, CSS, JavaScript,VueJs, Axios Library, Vite, Git, JavaScript Libraries, and CSS preprocessors to create innovative solutions. I've been a key contributor to the rebuilding of our web applications, adding exciting new features and functionality such as the user general dashboard, marketplace, API and subscription, financing and credit scoring dashboard, crop data and analytics dashboard, inspection and logistics dashboard, agent dashboard, wallet, and support system.</p>
+<p>As a Senior Frontend Developer at Zowasel Inc. Pioneered the development of Zowasel's revolutionary digital marketplace, building a complex system that connects diverse stakeholders across the agricultural supply chain (farmers, cooperatives, merchants, manufacturers, processors) and delivers unprecedented access, trust, and economic benefits, including boosting local economies.
+</p>
 <br />
 <h2> <a href="https://techroomservices.com/">Techroom Services</a> | Akwa Ibom, Uyo</h2>
 <p>At Techroom Services, I wear multiple hats as a Software Developer and Tutor. I've developed an online Payment gateway called Blocspay and have the opportunity to mentor and work closely with interns on various in-house and external projects. I'm part of the team responsible for designing and developing our company's website and web applications, where we strive to implement the latest and modern features to enhance user experience and functionality.
