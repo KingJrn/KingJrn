@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <h1>Emmanuel Eze - Front-End Web Developer Extraordinaire</h1>
 <br />
 <p>Welcome to my special README! I'm Emmanuel Eze, a highly skilled and experienced front-end web developer with a strong background in web development and a deep understanding of the Agro-Tech industry. I'm passionate about creating exceptional user interfaces and experiences for websites and web applications.</p>
+<p>You're welcome to click on any of the links and explore the live usage of the projects</p>
 
 <h3>I am a software engineer at <a href="https://www.zowasel.com/">Zowasel</a> and also Core Team Member at <a href="https://techroomservices.com/">Techroom Services</a></h3>
 <br>
