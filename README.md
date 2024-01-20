@@ -29,10 +29,7 @@ Here are some ideas to get you started:
 
 <p>As a Senior Frontend Developer at Zowasel Inc. I Pioneered the development of Zowasel's revolutionary digital marketplace, building a complex system that connects diverse stakeholders across the agricultural supply chain (farmers, cooperatives, merchants, manufacturers, processors) and delivers unprecedented access, trust, and economic benefits, including boosting local economies.
 </p>
-<br />
-<h2> <a href="https://techroomservices.com/">Techroom Services</a> | Akwa Ibom, Uyo</h2>
-<p>As Director of Technical Education and Project Management at Techroom, I fostered a thriving community of over 10 software developers, equipping them with in-demand skills through tailored programs in Mobile Development, Structured and Scalable Backend Development, UI/UX Design, and Responsive Design. My mentorship empowered several of graduates to successfully launch their own startups or secure employment within Techroom's network. <br/>
-Leveraging my skills and Techroom's network, I developed several innovative solutions for startups and established companies, tackling challenges like e-commerce optimization, internal data analysis, and streamlined workflows. These solutions helped businesses in diverse industries improve their digital presence and operations. My expertise includes working with frameworks such as Nuxt.js, React.js, Vue.js, Next.js Sockek.io Webpack, and utilizing server-side technologies like PHP and Node.js. Additionally, I have proficiency in various other web technologies</p>
+
 <br />
 <h2><a href="https://beiedu.co/">Blockchain Education Invasion (BEI) </a> | Akwa Ibom, Uyo</h2>
 <p>
@@ -40,19 +37,24 @@ Leveraging my skills and Techroom's network, I developed several innovative solu
 Conducted training and workshops on blockchain technology, effectively educating developers and stakeholders on this cutting-edge field. <br/>
   
 Built the landing site for a decentralized web3 betting platform built on the Binance Smart Chain Network, showcasing the potential of Web3 technology to revolutionize online gambling. 
-
 </p>
+<br />
+<h2> <a href="https://techroomservices.com/">Techroom Services</a> | Akwa Ibom, Uyo</h2>
+<p>As Director of Technical Education and Project Management at Techroom, I fostered a thriving community of over 10 software developers, equipping them with in-demand skills through tailored programs in Mobile Development, Structured and Scalable Backend Development, UI/UX Design, and Responsive Design. My mentorship empowered several of graduates to successfully launch their own startups or secure employment within Techroom's network. <br/>
+Leveraging my skills and Techroom's network, I developed several innovative solutions for startups and established companies, tackling challenges like e-commerce optimization, internal data analysis, and streamlined workflows. These solutions helped businesses in diverse industries improve their digital presence and operations. My expertise includes working with frameworks such as Nuxt.js, React.js, Vue.js, Next.js Sockek.io Webpack, and utilizing server-side technologies like PHP and Node.js. Additionally, I have proficiency in various other web technologies</p>
 <br />
 <h2><a href="https://www.a6gnl.com/">A6GNL</a> | Remote, Remote</h2>
 <p>At A6GNL, I worked closely with a colleague to rebuild the official website. I utilized CSS and JavaScript frameworks along with external libraries to enhance the user experience. I actively discussed issues with team members, providing resolutions and implementing best practices. Additionally, I took charge of developing a mobile-responsive UI and UX.</p>
 <br />
 
 <h2><a href="https://parallelworlds.us/">Parallel World </a> | Remote, Remote</h2>
-<p>As a freelance web developer at Parallel Worlds, I built and maintained the website, developed the user interface, integrated the website with third-party APIs, and optimized the website for performance and SEO.</p>
+<p>
+  I played a key role in bringing Parallel Worlds, a unique blockchain-agnostic metaverse platform, to life. I crafted an interactive UI using cutting-edge web technologies such as Javascript and web technologies, enabling seamless user immersion. My expertise in API integration ensured smooth connections to virtual world functionalities, while my focus on performance optimization and SEO helped make the platform discoverable and accessible. These contributions align perfectly with Parallel Worlds' mission of building a thriving social metaverse and bridging the gap between the real and virtual worlds.
+</p>
 <br />
 
 <h2>Skills and Education</h2>
-<p>I possess strong skills in HTML5, CSS3, CSS frameworks, JavaScript, JavaScript Libraries (such as VueJs and ReactJs), TypeScript, Version Control (Git), Content Management Systems (CMS) including WordPress, performance testing, debugging, Agile methodology, Scrum, and more. I hold a degree in Chemistry from the <a href="https://uniuyo.edu.ng/">University of Uyo</a>, Akwa Ibom.</p>
+<p>I possess strong skills in HTML5, CSS3, CSS frameworks, JavaScript, JavaScript Libraries, VueJs, ReactJs, TypeScript, Version Control (Git), Content Management Systems (CMS) including WordPress, performance testing, debugging, Agile methodology, Scrum, and more. </p>
 <br />
 
 <h2>Interests and Volunteer Experience</h2>
