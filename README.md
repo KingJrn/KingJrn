@@ -1,13 +1,12 @@
-<!--
-**KINGJRN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+# Emmanuel Eze  
+### Senior Frontend & Web3 Developer  
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/63636087?v=4" width="200" style="border-radius:50%">
-  <h1>Emmanuel Eze</h1>
-  <h2>Senior Frontend & Web3 Developer</h2>
-</div>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KingJrn&color=green" alt="Profile views">
+  <a href="https://twitter.com/king_Jrn"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/emmanuel-eze-623514b8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:emmajr503@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
 ## 👨‍💻 Professional Experience
 
